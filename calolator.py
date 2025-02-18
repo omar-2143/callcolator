@@ -1,11 +1,11 @@
-1=input("enter num")
+a=input("enter num")
 op=input("enter op")
-2=input("enter num")
+b=input("enter num")
 if op == "+":
-    print(1 + 2)
+    print(a + b)
 if op == "-":
-    print(1 - 2)
+    print(a - b)
 if op == "*":
-    print(1 * 2) 
+    print(a * b) 
 if op == "/":
-    print(1 / 2) 
+    print(a / b) 
